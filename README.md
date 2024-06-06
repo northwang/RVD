@@ -5,4 +5,6 @@ To evaluate the closeness of values expressed during LLMs’ role-playing and th
 
 The RVD contains 19 value dimensions of PVQ-RR for each role and the stability of values within a given dimension. 
 
-If you have any questions in using RVD, please contact yewang@cuc.edu.cn.
+If you have any questions about using RVD, please contact yewang@cuc.edu.cn.
+
+If you used RVD in your research, please cite the paper: Wang et al., RVBenchmark: Role Values Benchmark for role playing LLMs (under review).
